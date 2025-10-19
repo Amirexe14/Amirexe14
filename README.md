@@ -3,7 +3,7 @@
 ### Hai fellow traveler! 
 
 <h1 align="center"> I'm Amelia ! </h1>
-<h2>< but you can call me millie ;) ><h2>
+<h2>< but you can call me Millie ;) ><h2>
 
 <br>
 
