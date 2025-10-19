@@ -1,7 +1,7 @@
 <div align="center">
 
-##### Hai fellow traveler! 
+### Hai fellow traveler! 
 
-<h1 align="center"> I'm Millie </h1>
+<h1 align="center"> I'm Millie :D</h1>
 
 </div>
