@@ -1,3 +1,1 @@
-# Hai, im Millie!
-
-* Stuff, more stuff, and even more stuff
+##### Hai there! I'm Millie 
