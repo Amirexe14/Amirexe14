@@ -9,6 +9,7 @@
 <h2>Your local neighbourhood coder</h2>
 <h2>who supplies only the most random code prjs</h2>
 
+<img src="pic.jpeg">
 <!-- Some picture here would be nice!-->
 </div>
 
@@ -16,7 +17,7 @@
 
 <div align="left">
 
-<h2>Stuff im experienced in having fun with: </h2>
+<h2>Stuff im experienced in and having fun coding in: </h2>
 <ul>
     <li><h3>Python</h3></li>
     <li><h3>Html (Html, css & js)</h3></li>
@@ -28,12 +29,12 @@
 <br>
 <h2>I also really enjoy Networking & Software, stuff like:</h2>
 <ul>
+    <li><h3>Linux systems</h3></li>
     <li><h3>Degree in Network Defence</h3></li>
     <li><h3>Network & System Application Development</h3></li>
     <li><h3>Degree in Ethical Hacking</h3></li>
     <li><h3>Software Developer</h3></li>
     <li><h3>Casual Homelabber</h3></li>
-
 </ul>
 
 </div>
