@@ -23,7 +23,7 @@
 <ul>
     <li><h3>Python</h3></li>
     <li><h3>Html (Html, css & js)</h3></li>
-    <li><h3>Js / Nodejs</h3></li>
+    <!--<li><h3>Js / Nodejs</h3></li> -->
     <li><h3>C++</h3></li>
     <li><h3>C#</h3></li>
 
