@@ -32,10 +32,13 @@
 <h2>I also really enjoy Networking & Software, stuff like:</h2>
 <ul>
     <li><h3>Linux! (i use Arch btw LOL)</h3></li>
-    <li><h3>Servers</h3></li>
+    <li><h3>Servers & Management</h3></li>
+    <li><h3>Arduino and Circuits</h3></li>
+    <li><h3>Mathematics</h3></li>
+    <li><h3>Physics (im not insane trust trust)</h3></li>
     <li><h3>Networking</h3></li>
     <li><h3>Developing Apps</h3></li>
-    <li><h3>Hacking</h3></li>
+    <li><h3>Hacking (ethical, I swear)</h3></li>
     <li><h3>Software & Hardware!</h3></li>
     <li><h3>Homelabbing!</h3></li>
     <!--<li><h3>Linux systems</h3></li>
