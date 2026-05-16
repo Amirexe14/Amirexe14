@@ -11,7 +11,7 @@
 <h2>Your local neighbourhood coder</h2>
 <h2>who supplies only the most random code prjs</h2>
 
-<img src="pic2.jpeg">
+<img src="pic2.png">
 <!-- Some picture here would be nice!-->
 </div>
 
