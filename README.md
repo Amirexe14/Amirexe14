@@ -19,13 +19,14 @@
 
 <div align="left">
 
-<h2>Stuff im experienced in and having fun coding in: </h2>
+<h2>Coding experience: </h2>
 <ul>
     <li><h3>Python</h3></li>
     <li><h3>Html (Html, css & js)</h3></li>
-    <!--<li><h3>Js / Nodejs</h3></li> -->
+    <li><h3>Js / Nodejs (meh not much anymore)</h3></li>
     <li><h3>C++</h3></li>
     <li><h3>C#</h3></li>
+    <!-- <li><h3>idk</h3></li> -->
 
 </ul>
 <br>
